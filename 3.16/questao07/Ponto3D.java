@@ -1,4 +1,8 @@
 package questao07;
+/*Como nos exercícios 4 e 5, crie uma classe que represente uma
+circunferência por meio de seu raio. Escreva um programa que leia um
+valor de raio definido pelo usuário, instancie um objeto desse tipo e
+exiba a área correspondente. */
 
 public class Ponto3D {
     private double x;
