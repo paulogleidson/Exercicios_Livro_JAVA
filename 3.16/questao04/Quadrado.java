@@ -1,4 +1,4 @@
-package questao4;
+package questao04;
 /*4. Dada a classe Quadrado a seguir, construa um programa que instancie um
 objeto desse tipo, fazendo com que a medida do seu lado seja 1.5. Exiba
 a área do objeto criado, com uso do método area() dessa classe.*/

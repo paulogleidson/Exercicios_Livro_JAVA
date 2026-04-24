@@ -1,4 +1,4 @@
-package questao5;
+package questao05;
 /*Modique a classe Quadrado (Exercício 4) de modo que possua um
 construtor default e outro parametrizado com o valor inicial do lado.
 Altere também o programa criado no exercício 4 para utilizar o novo

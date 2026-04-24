@@ -1,4 +1,4 @@
-package questao8;
+package questao08;
 /*Implemente uma classe contendo apenas métodos estáticos capazes de
 realizar todas as conversões de temperatura possíveis entre as unidades
 Celsius, Fahrenheit e Kelvin. São conhecidas as relações de conversão

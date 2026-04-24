@@ -1,4 +1,4 @@
-package questao6;
+package questao06;
 /*Como nos exercícios 4 e 5, crie uma classe que represente uma
 circunferência por meio de seu raio. Escreva um programa que leia um
 valor de raio denfinido pelo usuário, instancie um objeto desse tipo e

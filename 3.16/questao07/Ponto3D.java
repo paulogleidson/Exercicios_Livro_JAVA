@@ -1,4 +1,4 @@
-package questao7;
+package questao07;
 
 public class Ponto3D {
     private double x;

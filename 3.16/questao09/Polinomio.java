@@ -1,4 +1,4 @@
-package questao9;
+package questao09;
 
 /*Construa uma classe Polinomio para representar um polinômio de uma
 variável, i.e., na forma y = anxn + an-1xn-1 + ... + a2x2 + a1x1 + a0. Inclua
